@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\bin\Debug\CS025ZakladyAlgoritmu.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\bin\Debug\CS025ZakladyAlgoritmu.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\bin\Debug\CS025ZakladyAlgoritmu.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.ZakladyAlgoritmuForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS025ZakladyAlgoritmu\CS025ZakladyAlgoritmu\obj\Debug\CS025ZakladyAlgoritmu.pdb
